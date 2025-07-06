@@ -1,0 +1,17 @@
+# FILE: requirements.txt
+
+# --- Interface Web ---
+gradio
+
+# --- NLP e Processamento de Linguagem ---
+spacy
+spacy-transformers
+
+# --- RAG (Retrieval-Augmented Generation) ---
+chromadb
+sentence-transformers
+
+# --- Dependências Fundamentais ---
+numpy
+Pillow
+protobuf
